@@ -15,7 +15,7 @@ source $HOME/.zshrc
 ```
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-The terminal theme i use gruvbox.
+The terminal theme i use is `gruvbox`.
 
 **Install gruvbox zsh**
 ```
@@ -39,4 +39,4 @@ Check my config.
 
 Check my config.
 
-**Thank u for reading :rocker:.**
+**Thank u for reading :rocket:.**
