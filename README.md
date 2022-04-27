@@ -37,6 +37,8 @@ Check my config.
 # Tmux
 ![image](img/tmux.png)
 
+# Nvim
+![image](img/nvim.png)
 Check my config.
 
 **Thank u for reading :rocket:.**
